@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.swift-module-cache/
+
+# Backend dependencies/artifacts
+backend/vendor/
+
+# Frontend dependencies/build
+frontend/node_modules/
+frontend/dist/
+
+# Local env and logs
+.env
+.env.*
+*.log
